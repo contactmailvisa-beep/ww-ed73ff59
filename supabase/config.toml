@@ -1,0 +1,7 @@
+project_id = "srqqxvhbzuvfjexvbkbq"
+
+[functions.run-python]
+verify_jwt = true
+
+[functions.paypal-ipn]
+verify_jwt = false
